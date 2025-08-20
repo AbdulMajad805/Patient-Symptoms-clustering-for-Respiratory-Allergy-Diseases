@@ -1,1 +1,3 @@
 # Patient-Symptoms-clustering-for-Respiratory-Allergy-Diseases
+
+This project applies K-Means clustering to patient symptom data to identify hidden patterns in respiratory and allergy-related illnesses. The workflow includes data preprocessing, scaling, clustering, and cluster interpretation, where groups are labeled into categories such as Allergy-related, Flu-like, Respiratory issues, and Fatigue. An interactive Streamlit app is built to allow users to input symptoms and instantly see the predicted cluster, making the model accessible beyond notebooks. The repository includes the trained model, scaler, dataset, and app code, and the project is also deployed on Streamlit Cloud for public use.
